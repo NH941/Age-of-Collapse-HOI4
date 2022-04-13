@@ -1,0 +1,31 @@
+
+state={
+	id=91
+	name="STATE_91"
+
+	history={
+		owner = GGR
+		victory_points = {
+			11479 20 
+		}
+		victory_points = {
+			422 3 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			air_base = 5
+
+		}
+		add_core_of = GGR
+
+	}
+
+	provinces={
+		422 536 6580 9468 9494 9558 11479 13241 
+	}
+	manpower=3227800
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

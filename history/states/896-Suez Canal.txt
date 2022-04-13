@@ -1,0 +1,35 @@
+state={
+	id=896
+	name="STATE_896"
+
+	history={
+		owner = SUZ
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			air_base = 5
+			12049 = {
+				naval_base = 4
+
+			}
+
+		}
+		victory_points = {
+			12049 20 
+		}
+		victory_points = {
+			4073 20
+		}
+		add_core_of = EGY
+                add_core_of = SUZ
+
+	}
+
+	provinces={
+		4073 12049 
+	}
+	manpower=781600
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

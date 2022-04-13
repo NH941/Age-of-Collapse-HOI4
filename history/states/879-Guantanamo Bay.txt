@@ -1,0 +1,26 @@
+state={
+	id=879
+	name="STATE_879"
+
+	history={
+		owner = USA
+		buildings = {
+			infrastructure = 2
+			7590 = {
+				naval_base = 1
+
+			}
+
+		}
+		add_core_of = CUB
+
+	}
+
+	provinces={
+		7590 
+	}
+	manpower=49600
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

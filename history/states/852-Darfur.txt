@@ -1,0 +1,23 @@
+state={
+	id=852
+	name="STATE_852"
+
+	history={
+		add_core_of = SUD
+                add_core_of = DAR
+		owner = DAR
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		1960 5060 8052 10739 10857 
+	}
+	manpower=816000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

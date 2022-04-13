@@ -1,0 +1,26 @@
+
+state={
+	id=98
+	name="STATE_98"
+
+	history={
+		victory_points = {
+			3230 5 
+		}
+		owner = GGR
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = GGR
+
+	}
+
+	provinces={
+		3230 6259 6321 6567 9290 9316 13246 
+	}
+	manpower=2412100
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=7.000
+}

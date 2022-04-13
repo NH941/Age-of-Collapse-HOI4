@@ -1,0 +1,28 @@
+
+state={
+	id=876
+	name="STATE_876"
+
+	history={
+		owner = KAT
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			191 3 
+		}
+		add_core_of = COG
+		add_core_of = KAT
+
+	}
+
+	provinces={
+		191 1516 1817 1846 1929 1968 4515 5221 10594 10930 12504 12795 
+	}
+	manpower=3150000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

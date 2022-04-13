@@ -1,0 +1,42 @@
+
+state={
+	id=6
+	name="STATE_6"
+	resources={
+		steel=2.000
+	}
+
+	history={
+		owner = BEL
+		victory_points = {
+			516 30 
+		}
+		victory_points = {
+			6598 30 
+		}
+		victory_points = {
+			13068 1 
+		}
+		buildings = {
+			infrastructure = 5
+			arms_factory = 5
+			industrial_complex = 5
+			air_base = 3
+			6598 = {
+				naval_base = 8
+
+			}
+
+		}
+		add_core_of = BEL
+                add_claim_by = FRA
+	}
+
+	provinces={
+		516 6598 9574 11419 13068 
+	}
+	manpower=7747700
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+	local_supplies=0.000
+}

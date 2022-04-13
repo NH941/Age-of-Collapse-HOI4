@@ -1,0 +1,44 @@
+
+state={
+	id=763
+	name="STATE_763"
+
+	history={
+		owner = GGR
+		controller = GGR
+		victory_points = {
+			6332 20 
+		}
+		victory_points = {
+			6375 3 
+		}
+		victory_points = {
+			3288 3 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			anti_air_building = 2
+			6332 = {
+				naval_base = 5
+
+			}
+			3288 = {
+				naval_base = 1
+
+			}
+			air_base = 6
+
+		}
+		add_core_of = GGR
+
+	}
+
+	provinces={
+		266 281 348 395 3288 3351 3384 6332 6347 6375 6402 9327 9346 9372 9398 11245 11265 11386 
+	}
+	manpower=5140234
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

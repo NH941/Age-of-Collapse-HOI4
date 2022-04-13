@@ -1,0 +1,30 @@
+
+state={
+	id=85
+	name="STATE_85"
+
+	history={
+		owner = GGR
+		victory_points = {
+			6521 50 
+		}
+		buildings = {
+			infrastructure = 4
+			arms_factory = 5
+			industrial_complex = 4
+			anti_air_building = 2
+			air_base = 6
+
+		}
+		add_core_of = GGR
+
+	}
+
+	provinces={
+		6521 13245 
+	}
+	manpower=12366730
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+	local_supplies=0.000
+}

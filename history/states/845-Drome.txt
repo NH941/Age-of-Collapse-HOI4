@@ -1,0 +1,25 @@
+state={
+	id=845
+	name="STATE_845"
+
+	history={
+		owner = FRA
+		buildings = {
+			infrastructure = 3
+
+		}
+		victory_points = {
+			3768 3 
+		}
+		add_core_of = FRA
+
+	}
+
+	provinces={
+		762 780 3768 6786 9728 11713 11716 
+	}
+	manpower=1350009
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

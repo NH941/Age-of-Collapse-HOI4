@@ -1,0 +1,25 @@
+state={
+	id=882
+	name="STATE_882"
+
+	history={
+		owner = WDI
+		add_core_of = WDI
+		victory_points = {
+			12830 1 
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		1993 8078 11012 12830 13211 
+	}
+	manpower=2356000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

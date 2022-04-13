@@ -1,0 +1,4 @@
+indochina = {
+	color = rgb { 223 57 74 }
+	color_ui = rgb { 223 57 74 }
+}

@@ -1,0 +1,33 @@
+
+state={
+	id=147
+	name="STATE_147"
+
+	history={
+		owner = SOV
+		victory_points = {
+			3134 20 
+		}
+		buildings = {
+			infrastructure = 3
+			air_base = 2
+			3134 = {
+				naval_base = 4
+				coastal_bunker = 1
+
+			}
+
+		}
+		add_core_of = SOV
+		add_core_of = RUS
+
+	}
+
+	provinces={
+		3134 
+	}
+	manpower=1035605
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

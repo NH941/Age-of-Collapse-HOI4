@@ -1,0 +1,27 @@
+state={
+	id=843
+	name="STATE_843"
+
+	history={
+		owner = FRA
+		buildings = {
+			infrastructure = 4
+			arms_factory = 2
+			anti_air_building = 3
+			air_base = 3
+
+		}
+		add_core_of = FRA
+
+		set_demilitarized_zone = yes
+
+	}
+
+	provinces={
+		551 6949 11491 11518 
+	}
+	manpower=981500
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

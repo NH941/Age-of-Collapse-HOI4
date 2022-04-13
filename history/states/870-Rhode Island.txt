@@ -1,0 +1,22 @@
+state={
+	id=870
+	name="STATE_870"
+
+	history={
+		owner = USA
+		buildings = {
+			infrastructure = 4
+
+		}
+		add_core_of = USA
+
+	}
+
+	provinces={
+		11830 
+	}
+	manpower=871360
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

@@ -1,0 +1,26 @@
+state={
+	id=839
+	name="STATE_839"
+
+	history={
+		owner = GGR
+		victory_points = {
+			688 20 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+		add_core_of = GGR
+
+	}
+
+	provinces={
+		668 671 688 3673 3674 3675 6673 13237 
+	}
+	manpower=2760000
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

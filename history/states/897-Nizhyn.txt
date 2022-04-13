@@ -1,0 +1,25 @@
+state={
+	id=897
+	name="STATE_897"
+
+	history={
+		owner = RUS
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			air_base = 3
+
+		}
+		add_core_of = UKR
+		add_core_of = RUS
+
+	}
+
+	provinces={
+		582 3584 6458 9437 9543 11425 11489 11530 11557 
+	}
+	manpower=935600
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

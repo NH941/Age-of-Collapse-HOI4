@@ -1,0 +1,76 @@
+﻿capital = 85
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+}
+
+set_convoys = 2000
+
+puppet = BLR
+puppet = UKR
+puppet = LIT
+puppet = SLO
+puppet = BEL
+puppet = DEN
+
+give_guarantee = SUZ
+
+ UKR = {
+  set_politics = {
+	ruling_party = nationalsocialism
+	last_election = "1933.1.1"
+	election_frequency = 48
+	elections_allowed = no
+  }
+  set_popularities = {
+	nationalsocialism = 47
+        despotist = 8
+        communism = 5
+        ultramilitarism = 10
+        fascism = 30
+  }
+ }
+
+ BLR = {
+  set_politics = {
+	ruling_party = nationalsocialism
+	last_election = "1933.1.1"
+	election_frequency = 48
+	elections_allowed = no
+  }
+  set_popularities = {
+	nationalsocialism = 50
+        fascism = 20
+        neutrality = 30
+  }
+ }
+
+
+create_faction = faction_german
+add_to_faction = GGR
+add_to_faction = ROM
+add_to_faction = RUS
+
+recruit_character = GGR_matthias_fischer
+
+set_politics = {
+	ruling_party = nationalsocialism
+	last_election = "1933.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	nationalsocialism = 65
+        fascism = 12
+        ultramilitarism = 18
+        esotericism = 2
+        despotist = 3
+}
+
+add_ideas = {
+	GER_Resource_Shortages
+	GER_corruption
+	GER_nazi
+	GER_population
+}

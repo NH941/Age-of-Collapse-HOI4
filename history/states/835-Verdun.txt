@@ -1,0 +1,29 @@
+
+state={
+	id=835
+	name="STATE_835"
+
+	history={
+		owner = BEL
+		victory_points = {
+			3560 1 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			air_base = 4
+
+		}
+		add_core_of = BEL
+		add_claim_by = FRA
+
+	}
+
+	provinces={
+		3447 3546 3560 5291 6545 9472 9505 13253 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

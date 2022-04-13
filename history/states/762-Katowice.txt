@@ -1,0 +1,27 @@
+
+state={
+	id=762
+	name="STATE_762"
+
+	history={
+		victory_points = {
+			3522 5 
+		}
+		owner = GGR
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+
+		}
+		add_core_of = GGR
+
+	}
+
+	provinces={
+		3522 6487 9238 9375 9456 9560 11359 11468 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

@@ -1,0 +1,29 @@
+state={
+	id=873
+	name="STATE_873"
+
+	history={
+		owner = RUS
+		victory_points = {
+			7661 20 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			fuel_silo = 1
+			air_base = 3
+
+		}
+		add_core_of = SOV
+		add_core_of = RUS
+
+	}
+
+	provinces={
+		7661 
+	}
+	manpower=1560000
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

@@ -1,0 +1,23 @@
+
+state={
+	id=207
+	name="STATE_207"
+
+	history={
+		owner = BLR
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = BLR
+
+	}
+
+	provinces={
+		6220 6371 9241 
+	}
+	manpower=417854
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=5.000
+}

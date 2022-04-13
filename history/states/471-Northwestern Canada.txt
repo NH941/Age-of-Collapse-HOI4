@@ -1,0 +1,28 @@
+
+state={
+	id=471
+	name="STATE_471"
+
+	history={
+		owner = CAN
+		buildings = {
+			infrastructure = 2
+			dockyard = 1
+			10548 = {
+				naval_base = 1
+
+			}
+
+		}
+		add_core_of = CAN
+
+	}
+
+	provinces={
+		1393 1799 1858 1872 4385 7869 10228 10258 10273 10548 12231 
+	}
+	manpower=276810
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=3.000
+}

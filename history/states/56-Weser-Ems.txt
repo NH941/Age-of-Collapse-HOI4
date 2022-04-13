@@ -1,0 +1,29 @@
+
+state={
+	id=56
+	name="STATE_56"
+
+	history={
+		owner = GGR
+		victory_points = {
+			11388 20 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			fuel_silo = 1
+			air_base = 3
+
+		}
+		add_core_of = GGR
+
+	}
+
+	provinces={
+		241 247 309 336 9281 11233 11264 11346 11360 11388 
+	}
+	manpower=2058467
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=14.000
+}

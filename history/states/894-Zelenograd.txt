@@ -1,0 +1,29 @@
+state={
+	id=894
+	name="STATE_894"
+	resources={
+		steel=37.000
+	}
+
+	history={
+		owner = RUS
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 5
+
+		}
+		add_core_of = SOV
+		add_core_of = RUS
+
+	}
+
+	provinces={
+		344 366 401 3259 3327 3358 9302 11250 11282 11326 
+	}
+	manpower=2367003
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

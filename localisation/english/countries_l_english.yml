@@ -1,0 +1,583 @@
+﻿l_english:
+    
+ GGR:0 "Greater German People's State"
+ GGR_DEF:0 "the Greater German People's State"
+ GGR_ADJ:0 "German"
+
+ BEL:0 "Volkstaat Nordfrankreich"
+ BEL_DEF:0 "Volkstaat Nordfrankreich"
+ BEL_ADJ:0 "North French"
+
+ FRA:0 "French Republic"
+ FRA_DEF:0 "the French Republic"
+ FRA_ADJ:0 "French"
+
+ BLR:0 "Volkskommissariat Weißruthenien"
+ BLR_DEF:0 "das Volkskommissariat Weißruthenien"
+ BLR_ADJ:0 "Ruthenisch"
+
+ UKR:0 "Volkskommissariat Ukraine"
+ UKR_DEF:0 "das Volkskommissariat Ukraine"
+ UKR_ADJ:0 "Ukrainisch"
+
+ LIT:0 "Volkskommissariat Litauen"
+ LIT_DEF:0 "das Volkskommissariat Litauen"
+ LIT_ADJ:0 ""
+
+ KAU:0 "Reichskommissariat Kaukasien"
+ KAU_DEF:0 "das Reichskommissariat Kaukasien"
+ KAU_ADJ:0 "Kaukasisch"
+
+ RUS:0 "National Soviet Republic"
+ RUS_DEF:0 "the National Soviet Republic"
+ RUS_ADJ:0 "Soviet"
+
+ SOV:0 "Russian Federative Socialist Republic"
+ SOV_DEF:0 "the Russian Federative Socialist Republic"
+ SOV_ADJ:0 "Russian"
+
+ PRC:0 "Heavenly Kingdom of Great Peace"
+ PRC_DEF:0 "the Heavenly Kingdom of Great Peace"
+ PRC_ADJ:0 "Chinese"
+
+ ENG:0 "British Republic"
+ ENG_DEF:0 "the British Republic"
+ ENG_ADJ:0 "British"
+
+ IRE:0 "Republic of Ireland"
+ IRE_DEF:0 "the Republic of Ireland"
+ IRE_ADJ:0 "Irish"
+
+ DEN:0 "Danish People's Republic"
+ DEN_DEF:0 "the Danish People's Republic" 
+ DEN_ADJ:0 "Danish"
+
+ VLV:0 "Military Administration of Transamur"
+ VLV_DEF:0 "the Military Administration of Transamur"
+ VLV_ADJ:0 "Transamur"
+
+ ITA:0 "Kingdom of Italy"
+ ITA_DEF:0 "the Kingdom of Italy"
+ ITA_ADJ:0 "Italian"
+
+ SLO:0 "Slovak People's State"
+ SLO_DEF:0 "the Slovak People's State"
+ SLO_ADJ:0 "Slovak"
+
+ HUN:0 "Turanist State"
+ HUN_DEF:0 "the Turanist State"
+ HUN_ADJ:0 "Turanist" 
+
+ ROM:0 "Romanian Social-Legionary Workers State"
+ ROM_DEF:0 "the Romanian Social-Legionary Workers State"
+ ROM_ADJ:0 "Romanian"
+
+ ALB:0 "Kingdom of Albania"
+ ALB_DEF:0 "the Kingdom of Albania"
+ ALB_ADJ:0 "Albanian"
+
+ BUL:0 "Tsardom of Bulgaria"
+ BUL_DEF:0 "the Tsardom of Bulgaria"
+ BUL_ADJ:0 "Bulgarian"
+
+ GRE:0 "Hellenic Republic"
+ GRE_DEF:0 "the Hellenic Republic"
+ GRE_ADJ:0 "Greek"
+
+ CRO:0 "Independent State of Croatia"
+ CRO_DEF:0 "the Independent State of Croatia"
+ CRO_ADJ:0 "Croatian"
+
+ SER:0 "Serbian State"
+ SER_DEF:0 "the Serbian State"
+ SER_ADJ:0 "Serbian"
+
+ YUG:0 "Kingdom of Yugoslavia"
+ YUG_DEF:0 "the Kingdom of Yugoslavia"
+ YUG_ADJ:0 "Yugoslavian"
+
+ MNT:0 "Protectorate of Montenegro"
+ MNT_DEF:0 "the Protectorate of Montenegro"
+ MNT_ADJ:0 "Montenegrin"
+
+ ICE:0 "Iceland"
+ ICE_DEF:0 "Iceland"
+ ICE_ADJ:0 "Icelandic"
+
+ NOR:0 "Kingdom of Norway"
+ NOR_DEF:0 "the Kingdom of Norway"
+ NOR_ADJ:0 "Norwegian"
+
+ SWE:0 "Kingdom of Sweden"
+ SWE_DEF:0 "the Kingdom of Sweden"
+ SWE_ADJ:0 "Swedish"
+
+ FIN:0 "Republic of Finland"
+ FIN_DEF:0 "the Republic of Finland"
+ FIN_ADJ:0 "Finnish"
+
+ TUR:0 "Republic of Turkey"
+ TUR_DEF:0 "the Republic of Turkey"
+ TUR_ADJ:0 "Turkish"
+
+ USA:0 "United States of America"
+ USA_DEF:0 "the United States of America"
+ USA_ADJ:0 "American"
+
+ CAN:0 "Dominion of Canada"
+ CAN_DEF:0 "the Dominion of Canada"
+ CAN_ADJ:0 "Canadian"
+
+ ISR:0 "State of Israel"
+ ISR_DEF:0 "the State of Israel"
+ ISR_ADJ:0 "Israeli"
+
+ MAD:0 "Malagasy Restoration Authority"
+ MAD_DEF:0 "the Malagasy Restoration Authority"
+ MAD_ADJ:0 "Malagasy"
+
+ SPR:0 "Kingdom of Iberia"
+ SPR_DEF:0 "the Kingdom of Iberia"
+ SPR_ADJ:0 "Iberian"
+
+ POR:0 "Portugalizia"
+ POR_DEF:0 "Portugalizia"
+ POR_ADJ:0 "Portugalizian"
+ POR_communism:0 "People's Republic of Portugalizia"
+ POR_communism_DEF:0 "the People's Republic of Portugalizia"
+ POR_communism_ADJ:0 "Portugalizian"
+
+ SAF:0 "Republic of South Africa"
+ SAF_DEF:0 "the Republic of South Africa"
+ SAF_ADJ:0 "South African"
+
+ RHO:0 "Republic of Rhodesia"
+ RHO_DEF:0 "the Republic of Rhodesia"
+ RHO_ADJ:0 "Rhodesian"
+
+ MEX:0 "United Mexican States"
+ MEX_DEF:0 "the United Mexican States"
+ MEX_ADJ:0 "Mexican"
+
+ MOX:0 "Mexican National Union"
+ MOX_DEF:0 "the Mexican National Union"
+ MOX_ADJ:0 "Mexican"
+
+ KOR:0 "Joseon Empire"
+ KOR_DEF:0 "the Joseon Empire"
+ KOR_ADJ:0 "Korean"
+
+ YUC:0 "Republic of Yucatán"
+ YUC_DEF:0 "the Republic of Yucatán"
+ YUC_ADJ:0 "Yucatán"
+ 
+ MOR:0 "Emirate of Morocco"
+ MOR_DEF:0 "the Emirate of Morocco"
+ MOR_ADJ:0 "Moroccan"
+
+ ALG:0 "People's Democratic Republic of Algeria"
+ ALG_DEF:0 "the People's Democratic Republic of Algeria"
+ ALG_ADJ:0 "Algerian"
+ 
+ TUN:0 "Republic of Tunisia"
+ TUN_DEF:0 "the Republic of Tunisia"
+ TUN_ADJ:0 "Tunisian"
+
+ LBA:0 "Libyan Arab Republic"
+ LBA_DEF:0 "the Libyan Arab Republic"
+ LBA_ADJ:0 "Libyan"
+
+ EGY:0 "Egyptian Arab Republic"
+ EGY_DEF:0 "the Egyptian Arab Republic"
+ EGY_ADJ:0 "Egyptian"
+
+ MRT:0 "Islamic State of Mauritania"
+ MRT_DEF:0 "the Islamic State of Mauritania"
+ MRT_ADJ:0 "Mauritanian"
+
+ MLI:0 "Empire of Mali"
+ MLI_DEF:0 "the Empire of Mali"
+ MLI_ADJ:0 "Mali"
+
+ NGR:0 "Republic of Niger"
+ NGR_DEF:0 "the Republic of Niger"
+ NGR_ADJ:0 "Nigerian"
+
+ CHA:0 "Republic of Chad"
+ CHA_DEF:0 "the Republic of Chad"
+ CHA_ADJ:0 "Gigachad"
+
+ DAR:0 "Kingdom of Darfur"
+ DAR_DEF:0 "the Kingdom of Darfur"
+ DAR_ADJ:0 "Darfur"
+
+ SEN:0 "Republic of Senegal"
+ SEN_DEF:0 "the Republic of Senegal"
+ SEN_ADJ:0 "Senegalese"
+
+ GAM:0 "Republic of the Gambia"
+ GAM_DEF:0 "the Republic of the Gambia"
+ GAM_ADJ:0 "Gambian"
+
+ GNB:0 "Guinea-Bissau"
+ GNB_DEF:0 "Guinea-Bissau"
+ GNB_ADJ:0 "Guinnea-Bissau"
+ 
+ SIE:0 "Republic of Sierra Leone"
+ SIE_DEF:0 "the Republic of Sierra Leone"
+ SIE_ADJ:0 "Sierra Leone"
+
+ LIB:0 "Liberian Federation"
+ LIB_DEF:0 "the Liberian Federation"
+ LIB_ADJ:0 "Liberian"
+
+ GNA:0 "West African Union"
+ GNA_DEF:0 "the West African Union"
+ GNA_ADJ:0 "West African"
+
+ VOL:0 "Burkina Faso"
+ VOL_DEF:0 "Burkina Faso"
+ VOL_ADJ:0 "Burkina Faso"
+
+ TOG:0 "Togolese Republic"
+ TOG_DEF:0 "the Togolese Republic"
+ TOG_ADJ:0 "Togolese"
+ 
+ DAH:0 "Republic of Benin" 
+ DAH_DEF:0 "the Republic of Benin"
+ DAH_ADJ:0 "Benin"
+
+ NGA:0 "Federal Republic of Nigeria"
+ NGA_DEF:0 "the Federal Republic of Nigeria"
+ NGA_ADJ:0 "Nigerian"
+
+ CMR:0 "Cameroon Clique"
+ CMR_DEF:0 "the Cameroon Clique"
+ CMR_ADJ:0 "Cameroon"
+
+ CAR:0 "Central African Republic"
+ CAR_DEF:0 "the Central African Republic"
+ CAR_ADJ:0 "Central African"
+
+ SUD:0 "Nubia"
+ SUD_DEF:0 "Nubia"
+ SUD_ADJ:0 "Nubian"
+
+ SSD:0 "Commune of South Sudan"
+ SSD_DEF:0 "the Commune of South Sudan"
+ SSD_ADJ:0 "Sudanese"
+
+ ETH:0 "State of Ethiopia"
+ ETH_DEF:0 "the State of Ethiopia"
+ ETH_ADJ:0 "Ethiopian"
+
+ SOM:0 "Socialist Republic of Somalia"
+ SOM_DEF:0 "the Socialist Republic of Somalia"
+ SOM_ADJ:0 "Somalian"
+
+ EQG:0 "Equatorial Guinea"
+ EQG_DEF:0 "Equatorial Guinea"
+ EQG_ADJ:0 "Equatorial"
+
+ GAB:0 "Gabonese People's Republic"
+ GAB_DEF:0 "the Gabonese People's Republic"
+ GAB_ADJ:0 "Gabonese"
+
+ RCG:0 "Corporatist Republic of the Congo"
+ RCG_DEF:0 "the Corporatist Republic of the Congo"
+ RCG_ADJ:0 "Congolese"
+
+ COG:0 "Congolese State"
+ COG_DEF:0 "the Congolese State"
+ COG_ADJ:0 "Congolese"
+
+ ECO:0 "Kingdom of Kisangani"
+ ECO_DEF:0 "the Kingdom of Kisangani"
+ ECO_ADJ:0 "Kisangani"
+
+ KAT:0 "Republic of Katanga"
+ KAT_DEF:0 "the Republic of Katanga"
+ KAT_ADJ:0 "Katangan"
+
+ RWA:0 "State of Rwanda"
+ RWA_DEF:0 "the State of Rwanda"
+ RWA_ADJ:0 "Rwandan"
+
+ BRD:0 "Republic of Burundi"
+ BRD_DEF:0 "the Republic of Burundi"
+ BRD_ADJ:0 "Burundi"
+
+ KEN:0 "East African Federation"
+ KEN_DEF:0 "the East African Federation"
+ KEN_ADJ:0 "East African"
+
+ MLW:0 "Kingdom of Malawi"
+ MLW_DEF:0 "the Kingdom of Malawi"
+ MLW_ADJ:0 "Malawi"
+
+ ZAM:0 "Republic of Zambia"
+ ZAM_DEF:0 "the Republic of Zambia"
+ ZAM_ADJ:0 "Zambian"
+
+ ANG:0 "People's Republic of Angola"
+ ANG_DEF:0 "the People's Republic of Angola"
+ ANG_ADJ:0 "Angolan"
+
+ NMB:0 "Namibian National Order"
+ NMB_DEF:0 "the Namibian National Order"
+ NMB_ADJ:0 "Namibian"
+
+ BOT:0 "Commune of Botswana"
+ BOT_DEF:0 "the Commune of Botswana"
+ BOT_ADJ:0 "Botswana"
+
+ MZB:0 "Republic of Mozambique"
+ MZB_DEF:0 "Republic of Mozambique"
+ MZB_ADJ:0 "Mozambique"
+
+ KHI:0 "Khivan Socialist Republic"
+ KHI_DEF:0 "the Khivan Socialist Republic"
+ KHI_ADJ:0 "Khivan"
+
+ TMS:0 "State of Turkestan"
+ TMS_DEF:0 "the State of Turkestan"
+ TMS_ADJ:0 "Turkestani"
+
+ UZB:0 "Uzbek Khanate"
+ UZB_DEF:0 "the Uzbek Khanate"
+ UZB_ADJ:0 "Uzbek"
+
+ TAJ:0 "Republic of Tajikistan"
+ TAJ_DEF:0 "the Republic of Tajikistan"
+ TAJ_ADJ:0 "Tajik"
+
+ KYR:0 "Kyrgyz Republic"
+ KYR_DEF:0 "the Kyrgyz Republic"
+ KYR_ADJ:0 "Kyrgyz"
+ 
+ SAU:0 "Fourth Saudi State"
+ SAU_DEF:0 "the Fourth Saudi State"
+ SAU_ADJ:0 "Saudi"
+
+ JWF:0 "Jawf Emirate"
+ JWF_DEF:0 "the Jawf Emirate"
+ JWF_ADJ:0 "Jawf"
+
+ HEJ:0 "Hejaz Emirate"
+ HEJ_DEF:0 "the Hejaz Emirate"
+ HEJ_ADJ:0 "Hejaz"
+
+ DMM:0 "Dammam Emirate"
+ DMM_DEF:0 "the Dammam Emirate"
+ DMM_ADJ:0 "Dammam"
+
+ ASR:0 "Asir Emirate"
+ ASR_DEF:0 "the Asir Emirate"
+ ASR_ADJ:0 "Asir"
+
+ SYR:0 "Syrian Arab Republic"
+ SYR_DEF:0 "the Syrian Arab Republic"
+ SYR_ADJ:0 "Syrian"
+
+ LEB:0 "Republic of Lebanon"
+ LEB_DEF:0 "the Republic of Lebanon"
+ LEB_ADJ:0 "Lebanese"
+
+ JOR:0 "Kingdom of Jordan"
+ JOR_DEF:0 "the Kingdom of Jordan"
+ JOR_ADJ:0 "Jordanian"
+
+ IRQ:0 "Republic of Iraq"
+ IRQ_DEF:0 "the Republic of Iraq"
+ IRQ_ADJ:0 "Iraqi"
+
+ YEM:0 "Social Republic of Yemen"
+ YEM_DEF:0 "the Social Republic of Yemen"
+ YEM_ADJ:0 "Yemeni"
+
+ OMA:0 "Sultanate of Oman"
+ OMA_DEF:0 "the Sultanate of Oman"
+ OMA_ADJ:0 "Omani"
+
+ UAE:0 "Abu Dhabi Emirate"
+ UAE_DEF:0 "the Abu Dhabi Emirate"
+ UAE_ADJ:0 "Abu Dhabi"
+
+ QAT:0 "Qatar"
+ QAT_DEF:0 "Qatar"
+ QAT_ADJ:0 "Qatari"
+
+ PER:0 "Imperial State of Iran"
+ PER_DEF:0 "the Imperial State of Iran"
+ PER_ADJ:0 "Iranian"
+
+ AFG:0 "Islamic Republic of Afghanistan"
+ AFG_DEF:0 "the Islamic Republic of Afghanistan"
+ AFG_ADJ:0 "Afghani"
+
+ PAK:0 "Social State of Pakistan"
+ PAK_DEF:0 "the Social State of Pakistan"
+ PAK_ADJ:0 "Pakistani"
+
+ RAJ:0 "Indian National State"
+ RAJ_DEF:0 "the Indian National State"
+ RAJ_ADJ:0 "Indian"
+
+ WDI:0 "Wadai State"
+ WDI_DEF:0 "the Wadai State"
+ WDI_ADJ:0 "Wadai"
+
+ STK:0 "Sokoto Caliphate"
+ STK_DEF:0 "the Sokoto Caliphate"
+ STK_ADJ:0 "Sokotan"
+
+ NMP:0 "Kingdom of Nampula"
+ NMP_DEF:0 "the Kingdom of Nampula"
+ NMP_ADJ:0 "Nampulan"
+
+ DVD:0 "Dravida Nadu"
+ DVD_DEF:0 "Dravida Nadu"
+ DVD_ADJ:0 "Dravidian"
+
+ CUB:0 "American Military Administration of Cuba"
+ CUB_DEF:0 "the American Military Administration of Cuba"
+ CUB_ADJ:0 "Cuban"
+
+ HAI:0 "Republic of Haiti"
+ HAI_DEF:0 "the Republic of Haiti"
+ HAI_ADJ:0 "Haitian"
+ 
+ DOM:0 "Dominican Republic"
+ DOM_DEF:0 "the Dominican Republic"
+ DOM_ADJ:0 "Dominican"
+
+ GUA:0 "Republic of Guatemala"
+ GUA_DEF:0 "Republic of Guatemala"
+ GUA_ADJ:0 "Guatemalan"
+
+ BLZ:0 "Republic of Belize"
+ BLZ_DEF:0 "the Republic of Belize"
+ BLZ_ADJ:0 "Belizean"
+
+ ELS:0 "State of El Salvador"
+ ELS_DEF:0 "the State of El Salvador"
+ ELS_ADJ:0 "Salvadoran"
+
+ HON:0 "Republic of Honduras"
+ HON_DEF:0 "the Republic of Honduras"
+ HON_ADJ:0 "Honduran"
+
+ NIC:0 "Republic of Nicaragua"
+ NIC_DEF:0 "the Republic of Nicaragua"
+ NIC_ADJ:0 "Nicaraguan"
+
+ COS:0 "Republic of Costa Rica"
+ COS_DEF:0 "the Republic of Costa Rica"
+ COS_ADJ:0 "Costa Rican"
+
+ PAN:0 "Republic of Panama"
+ PAN_DEF:0 "the Republic of Panama"
+ PAN_ADJ:0 "Panaman"
+
+ COL:0 "Federalist Republic of Colombia"
+ COL_DEF:0 "the Federalist Republic of Colombia"
+ COL_ADJ:0 "Colombian"
+
+ VEN:0 "Bolivarian Republic of Venezuela"
+ VEN_DEF:0 "the Bolivarian Republic of Venezuela"
+ VEN_ADJ:0 "Venezuelan"
+
+ GYA:0 "Republic of Guyana"
+ GYA_DEF:0 "the Republic of Guyana"
+ GYA_ADJ:0 "Guyanan"
+
+ SUR:0 "Republic of Suriname"
+ SUR_DEF:0 "the Republic of Suriname"
+ SUR_ADJ:0 "Suriname"
+
+ BRA:0 "Socialist Union of Brazil"
+ BRA_DEF:0 "the Socialist Union of Brazil"
+ BRA_ADJ:0 "Brazilian"
+
+ ECU:0 "Republic of Ecuador"
+ ECU_DEF:0 "the Republic of Ecuador"
+ ECU_ADJ:0 "Ecuadorean"
+
+ PRU:0 "Republic of Peru"
+ PRU_DEF:0 "the Republic of Peru"
+ PRU_ADJ:0 "Peruvian"
+
+ BOL:0 "Bolivian Collective"
+ BOL_DEF:0 "the Bolivian Collective"
+ BOL_ADJ:0 "Bolivian"
+
+ PAR:0 "Republic of Paraguay"
+ PAR_DEF:0 "the Republic of Paraguay"
+ PAR_ADJ:0 "Paraguayian"
+
+ URG:0 "Republic of Uruguay"
+ URG_DEF:0 "the Republic of Uruguay"
+ URG_ADJ:0 "Uruguayian"
+
+ ARG:0 "Argentine Republic"
+ ARG_DEF:0 "the Argentine Republic"
+ ARG_ADJ:0 "Argentine"
+
+ CHL:0 "Republic of Chile"
+ CHL_DEF:0 "the Republic of Chile"
+ CHL_ADJ:0 "Chilean"
+
+ NEP:0 "Kingdom of Nepal"
+ NEP_DEF:0 "the Kingdom of Nepal"
+ NEP_ADJ:0 "Nepalese"
+
+ BHU:0 "Kingdom of Bhutan"
+ BHU_DEF:0 "the Kingdom of Bhutan"
+ BHU_ADJ:0 "Bhutanese"
+
+ BRM:0 "State of Burma"
+ BRM_DEF:0 "the State of Burma"
+ BRM_ADJ:0 "Burmese"
+
+ SIA:0 "Kingdom of Thailand"
+ SIA_DEF:0 "the Kingdom of Thailand"
+ SIA_ADJ:0 "Thai"
+
+ CAM:0 "Khmer Rouge"
+ CAM_DEF:0 "Khmer Rouge"
+ CAM_ADJ:0 "Cambodian"
+
+ MAL:0 "Republic of Malaysia"
+ MAL_DEF:0 "the Republic of Malaysia"
+ MAL_ADJ:0 "Malay"
+
+ INS:0 "Kingdom of Indonesia"
+ INS_DEF:0 "the Kingdom of Indonesia"
+ INS_ADJ:0 "Indonesian"
+
+ JAP:0 "Empire of Japan"
+ JAP_DEF:0 "the Empire of Japan"
+ JAP_ADJ:0 "Japanese"
+
+ AST:0 "Commonwealth of Australia"
+ AST_DEF:0 "the Commonwealth of Australia"
+ AST_ADJ:0 "Australian"
+
+ NZL:0 "New Zealand"
+ NZL_DEF:0 "New Zealand"
+ NZL_ADJ:0 "Fake Australian"
+
+ QUE:0 "Dominion of Québec"
+ QUE_DEF:0 "the Dominion of Québec"
+ QUE_ADJ:0 "Québecois" 
+ 
+ PHI:0 "Republic of the Philipines"
+ PHI_DEF:0 "the Republic of the Philipines"
+ PHI_ADJ:0 "Philipine"
+
+ SUZ:0 "Suez International Area"
+ SUZ_DEF:0 "the Suez International Area"
+ SUZ_ADJ:0 "Suez"
+
+
+ 

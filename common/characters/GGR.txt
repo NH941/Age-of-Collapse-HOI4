@@ -1,0 +1,16 @@
+characters = {
+	GGR_matthias_fischer = {
+		name = "Matthias Fischer" 
+		portraits = {
+			civilian = {
+				large=gfx/leaders/GGR/Portrait_GGR_Matthias_Fischer.dds
+			}
+		}
+		country_leader = {
+			ideology = strasserism
+			expire = "2053.1.1.1"
+			id = -1
+		}
+	}
+}
+	

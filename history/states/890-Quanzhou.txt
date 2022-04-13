@@ -1,0 +1,32 @@
+state={
+	id=890
+	name="STATE_890"
+
+	history={
+		owner = PRC
+		add_core_of = PRC
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			4196 = {
+				naval_base = 3
+				coastal_bunker = 1
+				bunker = 1
+
+			}
+
+		}
+		victory_points = {
+			4196 20 
+		}
+
+	}
+
+	provinces={
+		1166 4196 7027 11986 
+	}
+	manpower=81700080
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}
